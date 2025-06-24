@@ -5,7 +5,8 @@ project:
 website:
   navbar:
     left:
-      - home.qmd
+      - text: Home
+        href: index.qmd
       - research.qmd
       - media.qmd
       - writing.qmd
