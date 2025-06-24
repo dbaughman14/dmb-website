@@ -1,10 +1,11 @@
 ---
 title: "Home"
-title-block: false
-format: 
+format:
   html:
     toc: false
+    title-block: true
 ---
+# Home {.hidden}
 
 ### Donaven Baughman<br> PhD Candidate
 
