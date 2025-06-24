@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   navbar:
@@ -16,5 +17,5 @@ format:
     theme: sandstone # different themes can be found at https://quarto.org/docs/output-formats/html-themes.html
     toc: true
     
-    
+
 
