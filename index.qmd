@@ -3,7 +3,7 @@ title: "Home"
 format: 
     html:
      toc: false
-     title-block-style: none
+     title-block: false
 ---
 
 ### Donaven Baughman<br> PhD Candidate
