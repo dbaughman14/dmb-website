@@ -1,9 +1,9 @@
 ---
 title: "Home"
+title-block: false
 format: 
     html:
      toc: false
-     title-block: false
 ---
 
 ### Donaven Baughman<br> PhD Candidate
