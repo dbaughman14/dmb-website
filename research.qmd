@@ -1,0 +1,27 @@
+---
+title: "Research and Publications"
+editor: visual
+---
+
+### Current research projects
+
+1.  **Impacts of salinity regime and predation risk on physiology and development of juvenile eastern oysters**
+
+    ![](images/IMG_5459.JPG){width="225"}![](images/IMG_5919.JPG){width="300"}
+
+2.  **Life history allocation of predator-exposed oysters across ontogeny**
+
+    ![](images/Intertidal cages Nov 2024.jpg){width="300"}![](images/Inside intertidal cage Nov 2024.jpg){width="300"}
+
+3.  **Abundance of predatory gastropods in Apalachicola Bay, Florida**
+
+    ![](images/Predator survey quadrat.jpg){width="300"}![](images/Conch feeding on oyster with proboscis through shell.jpg){width="300"}
+
+4.  **Effects of adult oyster harvest on predation of juvenile oysters by predatory gastropods**
+
+### Publications
+
+Ascher, A., M. Niemisto, **D.M. Baughman**, G. Andrews, C. Morris, E. Patrick, R. A. Wahle, D. M. Fields. 2024. Climate induced declines in maternal size may come at a cost to embryonic investment and larval performance in the American lobster. *Fisheries Research.* 276*. <https://doi.org/10.1016/j.fishres.2024.107059.>*
+
+Woods, M.N., T.J. Hong, **D.M. Baughman**, G. Andrews, D. M. Fields, P. A. Matrai. 2020. Accumulation and effects of microplastic fibers in American lobster larvae *(Homarus americanus)*. *Marine Pollution Bulletin.* 157*;* 1-9.\
+[*https://doi.org/10.1016/j.marpolbul.2020.111280*](https://doi.org/10.1016/j.marpolbul.2020.111280)

@@ -1,0 +1,9 @@
+---
+title: "Donaven Baughman"
+---
+
+| ![](images/Me%20working%20on%20intertidal%20cage-01.png){width="300"}<br>![](images/intertidal_1.JPG){width="300"} | I am an ecologist and skateboarder from the U.S. I am currently a PhD candidate at Florida State University where I study the impacts of predation risk and abiotic stress on life history allocation in eastern oysters (Crassostrea virginica). In addition to my research with oysters and their predators, I am more broadly interested in how human activities impact life history and species interactions within ecological communities. More recently, I have became interested in how food quality impacts species behavior, and how such food-driven changes in behavior may impact species interactions. <br><br> When I'm not doing science, I am likely skateboarding, working out, doing yoga, or cooking delicious and nutritious meals and enjoying life with my fiancé. <br><br> I made this website as a place to share the happenings of a skateboarding ecologist. Here, you can find summaries of my current and previous research projects with links to peer-reviewed publications, video logs of conducting experiments in the lab and in nature, freelance writing about topics that are interesting and important to me, and skateboarding clips. My CV and contact information are available under the Contact tab. |
+|:-----------------------------------|:-----------------------------------|
+
+```{r}
+```
