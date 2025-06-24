@@ -1,6 +1,6 @@
 ---
 title: "Home"
-title-block: false
+title-block-style: none
 format: 
     html:
      toc: false
