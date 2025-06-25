@@ -20,6 +20,8 @@ format:
     theme: sandstone # different themes can be found at https://quarto.org/docs/output-formats/html-themes.html
     toc: true
     css: styles.css
+    meta:
+      viewport: "width=device-width, initial-scale=1.0"
     
     
 
