@@ -2,8 +2,9 @@
 title: "Home"
 format:
   html:
-    title-block: false
+    theme: sandstone
     toc: false
+    title-block: false
 ---
 
 ### Donaven Baughman<br> PhD Candidate
