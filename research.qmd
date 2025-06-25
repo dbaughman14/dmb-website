@@ -3,7 +3,7 @@ title: "Research and Publications"
 editor: visual
 ---
 
-### Current research projects
+## Current research projects
 
 1.  **Impacts of salinity regime and predation risk on physiology and development of juvenile eastern oysters**
 
