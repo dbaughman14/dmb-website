@@ -4,7 +4,7 @@ format:
   html:
     theme: sandstone
     toc: false
-    title-block: false
+    css: styles.css
 ---
 
 ### Donaven Baughman<br> PhD Candidate
