@@ -11,6 +11,9 @@ website:
       - writing.qmd
       - skateboarding.qmd
       - contact.qmd
+  page-footer: 
+    right: "Website built with Quarto (https://quarto.org/)"
+    left: "&copy; Copyright 2025, Donaven Baughman"
 
 format:
   html: 
