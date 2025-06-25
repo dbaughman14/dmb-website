@@ -3,4 +3,6 @@ title: "Contact"
 editor: visual
 ---
 
+### Contact
+
 email: [dbaughman\@fsu.edu](dbaughman@fsu.edu)<br><br>email: [dbaughman14\@gmail.com](dbaughman14@gmail.com)
