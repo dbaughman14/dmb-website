@@ -17,7 +17,7 @@ website:
 
 format:
   html: 
-    theme: sandstone # different themes can be found at https://quarto.org/docs/output-formats/html-themes.html
+    theme: flatly # different themes can be found at https://quarto.org/docs/output-formats/html-themes.html
     toc: true
     css: styles.css
     
